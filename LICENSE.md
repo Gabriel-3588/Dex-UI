@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Dex Admin (https://github.com/Gabriel-3588/Dex-Admin)
+Copyright (c) 2025 Dex Admin (https://github.com/Gabriel-3588/Dex-UI)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
